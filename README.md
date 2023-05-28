@@ -1,5 +1,5 @@
 # framecontrol-obsmmf
-An OBS plugin that receives a memory-map-file bitmap image from FrameControl
+An OBS plugin that receives a memory-map-file bitmap image from FrameControl (https://github.com/AngryCarrot789/FrameControlEx)
 
 ## bugs
 May randomly cause OBS to crash. 
